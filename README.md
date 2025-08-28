@@ -1,6 +1,6 @@
 # Ngnix-web-application-on-AWS-EC2
 
-## 👨‍💻 Author: Parthasarathy (Cloud Engineer)
+
 
 This project demonstrates how to host a static website using **Amazon EC2** and **NGINX**. It walks through the steps of creating an instance, configuring security groups, installing NGINX, and deploying a static HTML page.
 
