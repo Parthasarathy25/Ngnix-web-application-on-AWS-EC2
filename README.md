@@ -17,7 +17,7 @@ This project demonstrates how to host a static website using **Amazon EC2** and 
 - Used default settings with a custom security group.
 
 📸 Screenshot:
-![Create Instance](images/create_instance.pngg)
+![Create Instance](images/create_instance.png)
 
 ---
 
@@ -145,6 +145,6 @@ sudo systemctl status nginx
 
  
 
- 
+
 ## Final Output
 ![web application](images/output.png)
