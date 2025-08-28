@@ -17,7 +17,7 @@ This project demonstrates how to host a static website using **Amazon EC2** and 
 - Used default settings with a custom security group.
 
 📸 Screenshot:
-![Create Instance](./create%20instance.png)
+![Create Instance](images/create_instance.pngg)
 
 ---
 
@@ -31,7 +31,7 @@ To allow traffic to reach the server, I added the following **inbound rules**:
 | HTTP | TCP      | 80         | 0.0.0.0/0  |
 
 📸 Screenshot:
-![Inbound Rules](./inbound.png)
+![Inbound Rules](images/inbound.png)
 
 ---
 
@@ -40,7 +40,7 @@ To allow traffic to reach the server, I added the following **inbound rules**:
 After launching, verified the instance was **running** with a public IP assigned.
 
 📸 Screenshot:
-![Check Instance](./check%20instance.png)
+![Check Instance](images/check_instance.png)
 
 ---
 
@@ -51,11 +51,11 @@ After launching, verified the instance was **running** with a public IP assigned
 - Verified it was running correctly.
 
 📸 Screenshot:
-![NGINX Commands](./nginx%20code.png)  
+![NGINX Commands](images/nginx_code.png)  
 
 ## 🖼️ Project Preview
 
-![Deployed Web Page](./output.png)
+![Deployed Web Page](images/output.png)
 
 
 Commands used:
