@@ -143,6 +143,8 @@ sudo systemctl status nginx
 </body>
 </html>
 
+ 
 
+ 
 ## Final Output
 ![web application](images/output.png)
